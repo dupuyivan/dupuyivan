@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Javascript, React, Express,**
+- 💬 Ask me about **Javascript, React, Express,React Native**
 
 - 📫 How to reach me **dupuyivan8@gmail.com**
 
