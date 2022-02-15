@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Ivan</h1>
-<h3 align="center">A passionate full stack developer from Santa Fe, Argentina</h3>
+<h3 align="center">A passionate full stack developer from Nogoyá, Entre ríos, Argentina</h3>
 
 <img align='center' src="https://i.postimg.cc/Jz3j0s11/Avatar-cutted.png" width="200">
 
