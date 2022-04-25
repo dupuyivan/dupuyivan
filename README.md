@@ -4,7 +4,7 @@
 
 <img align='center' src="https://i.postimg.cc/Jz3j0s11/Avatar-cutted.png" width="200">
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **FLUTTER**
 
 - 💬 Ask me about **Javascript, React, Express, React Native**
 
